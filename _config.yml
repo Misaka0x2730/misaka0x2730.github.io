@@ -1,2 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
+
 title: Misaka0x2730's homepage
