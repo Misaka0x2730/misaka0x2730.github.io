@@ -42,3 +42,5 @@ gem "kramdown-parser-gfm"
 gem "unf", "~> 0.2.0"
 
 gem "webrick", "~> 1.8"
+
+gem "jekyll-readme-index"
